@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6692D5C4-49AC-4FEA-8CA3-D0E1F36EDC65</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Web2PDF</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>58CE0811-E102-492A-BECB-0E2D0C868DED</key>
+		<string>https://github.com/Nitin88gupta/IOS.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Web2PDF/Web2PDF.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>58CE0811-E102-492A-BECB-0E2D0C868DED</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Nitin88gupta/IOS.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>58CE0811-E102-492A-BECB-0E2D0C868DED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>58CE0811-E102-492A-BECB-0E2D0C868DED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>IOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
